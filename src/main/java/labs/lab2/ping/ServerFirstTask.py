@@ -1,4 +1,3 @@
-# UDPPingerServer.py
 # Следующий модуль используется для генерирования случайных потерь пакетов
 import random
 from socket import *
